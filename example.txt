@@ -20,7 +20,4 @@ Thank you for participating! Let’s have some fun and get creative.
 -----------------------------------------------------
 Changes FRom MennaTullah FrontEnd
 ======================================
-changes for stashed task
--------------------------------------------------
-
-changes for reverting task
+changes for stashed task  for conflicts modifiy 1222
